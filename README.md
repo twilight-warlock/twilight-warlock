@@ -1,7 +1,7 @@
 ![Header image](header.png "Title")
 
 <h1> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<span align="right" style="float:right"> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=0e75b6&style=flat" alt="twilight-warlock" /></span></h1>
+<div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=0e75b6&style=flat" alt="twilight-warlock" /></div></h1>
 
 <h3>
 I'm Devansh Shah
