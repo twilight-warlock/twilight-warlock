@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/MartinHeinz/twilight-warlock/twilight-warlock/header.png "Header")
+![Header image](header.png "Title")
 
 # Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
