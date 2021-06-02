@@ -32,7 +32,7 @@ I'm Devansh Shah🚀🤙
 <a href="https://github.com/twilight-warlock">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=twilight-warlock&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Devansh Shah Stats" />
 
-<h3>Technologies worked with</h3>
+<h2>🧩 Technologies worked with</h2>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
