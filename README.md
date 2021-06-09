@@ -6,11 +6,11 @@
 </div>
 </h1>
 
-<p align="center" style="font-size:22px">
+<h2 align="center" style="font-size:22px">
 <i>
 ⚡️ Shift the ctrl to me, I will alt the world ⚡️
 </i>
-</p>
+</h2>
 
 <h2>
 I'm Devansh Shah🚀🤙
