@@ -1,19 +1,27 @@
 ![Header image](header.png "Yo")
 
-<h1 align="center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
-<img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
+<div align="center"> 
+    <h1>Hello stranger! I'm Devansh Shah 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    </h1> 
+    <!-- <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;
+        Would%20love%20to%20collaborate!;
+        Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
+    </p> -->
+    <p align="center" style="font-size:22px;margin-top:0;border:none">
+        <i>
+        ⚡️ Shift the ctrl to me, I will alt the world ⚡️
+        </i>
+    </p>
+    <div> 
+        <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
+        <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
+    </div>
 </div>
-</h1>
-
-<h2 align="center" style="font-size:22px;margin-top:0;border:none">
-<i>
-⚡️ Shift the ctrl to me, I will alt the world ⚡️
-</i>
-</h2>
 
 <h2>
-I'm Devansh Shah🚀🤙
+Insights🚀🤙
 </h2>
 <div>
     <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
@@ -28,7 +36,7 @@ I'm Devansh Shah🚀🤙
             I do <i>full stack development</i> and keep exploring new fields 🔭
         </li>
         <li style="font-size:18px">
-            Music and love makes the world go around 🎧
+            <b>Music</b> and <b>love</b> makes the world go around 🎧
         </li>
     </ul>
 </div>
@@ -46,6 +54,10 @@ I'm Devansh Shah🚀🤙
 
 <a href="https://github.com/twilight-warlock">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=twilight-warlock&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Devansh Shah Stats" />
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=twilight-warlock&theme=neon-dark&hide_border=true"/>
+  </a>
 
 <h2>🧩 Technologies worked with</h2>
 <p align="left">
