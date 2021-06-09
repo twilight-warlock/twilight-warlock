@@ -8,14 +8,14 @@
     </a></div>
 </h1>
 
-<h4 align="center">
+<div align="center" style="font-size:22px; font-weight:bold">
 <i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
-</h4>
+</div>
 
 <h2>
 I'm Devansh Shah🚀🤙
 </h2>
-<div>
+<div styel="margin-bottom:25px">
     <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
     <ul>
         <li style="font-size:18px">
