@@ -1,6 +1,6 @@
 ![Header image](header.png "Yo")
 
-<h1 style="text-align:center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h1 align="center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
 <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
 </div>
@@ -8,26 +8,26 @@
     </a></div>
 </h1>
 
-<h5 align="center">
+<h4 align="center">
 <i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
-</h5>
+</h4>
 
-<h3>
+<h2>
 I'm Devansh Shah🚀🤙
-</h3>
+</h2>
 <div>
-    <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="290" style="margin-left:25px" />
+    <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
     <ul>
-        <li style="font-size:17px">
+        <li style="font-size:18px">
             I <b>welcome</b> you to witness my journey as a coding enthusiast who has set out to sail in ever growing tech world 🌏
         </li>
         <li style="font-size:17px">
             Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
         </li>
-        <li>
+        <li style="font-size:18px">
             I do <i>full stack development</i> and keep exploring new fields 🔭
         </li>
-        <li>
+        <li style="font-size:18px">
             Music and love makes the world go around 🎧
         </li>
     </ul>
