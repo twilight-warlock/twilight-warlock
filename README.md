@@ -21,7 +21,7 @@
 </div>
 
 <h2>
-Insights🚀🤙
+🚀 Insights
 </h2>
 <div>
     <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
@@ -54,10 +54,11 @@ Insights🚀🤙
 
 <a href="https://github.com/twilight-warlock">
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=twilight-warlock&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Devansh Shah Stats" />
+</a>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://github.com/twilight-warlock">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Devansh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=twilight-warlock&theme=neon-dark&hide_border=true"/>
-  </a>
+</a>
 
 <h2>🧩 Technologies worked with</h2>
 <p align="left">
