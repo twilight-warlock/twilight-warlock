@@ -1,12 +1,11 @@
 ![Header image](header.png "Yo")
 
-<h1 align="center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
-<img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
-</div>
-<div> 
-    </a></div>
-</h1>
+<div align="center" style="font-size:36px; font-weight:bold"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    <div> 
+        <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
+        <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
+    </div>
+<div>
 
 <div align="center" style="font-size:22px; font-weight:bold">
 <i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
