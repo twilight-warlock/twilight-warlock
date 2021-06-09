@@ -1,28 +1,43 @@
-![Header image](header.png "Title")
+![Header image](header.png "Yo")
 
-<h1> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h1 style="text-align:center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
 <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
 </div>
 <div> 
     </a></div>
-
 </h1>
+
+<h5 align="center">
+<i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
+</h5>
 
 <h3>
 I'm Devansh Shah🚀🤙
 </h3>
-<ul>
-<li style="font-size:17px">I welcome you to witness my journey as a coding entusiast who has set out to sail in ever growing tech world🌏</li>
-<li style="font-size:17px">Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give back to the community💻</li>
-</ul>
-<h4>Connect with me : 
-<br><br>
+<div>
+    <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="290" style="margin-left:25px" />
+    <ul>
+        <li style="font-size:17px">
+            I <b>welcome</b> you to witness my journey as a coding enthusiast who has set out to sail in ever growing tech world 🌏
+        </li>
+        <li style="font-size:17px">
+            Always seeking out opportunities to <b>develop</b> challenging applications, <b>collaborate</b> with like minded intellectuals and sharing these skillsets to give <b>back to the community</b> 💻
+        </li>
+        <li>
+            I do <i>full stack development</i> and keep exploring new fields 🔭
+        </li>
+        <li>
+            Music and love makes the world go around 🎧
+        </li>
+    </ul>
+</div>
+
+<h4>💬 Connect with me : </h4> 
     <a href="https://www.linkedin.com/in/devansh-shah-8b598b192/">
         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/turbo_reflex/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</h4>
 
 <h2>📊 My Stats</h2>
 
