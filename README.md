@@ -1,20 +1,18 @@
 ![Header image](header.png "Yo")
 
-<div align="center" style="font-size:36px; font-weight:bold"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-    <div> 
-        <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
-        <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
-    </div>
-<div>
-
-<div align="center" style="font-size:22px; font-weight:bold">
-<i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
+<h1 align="center"> Hello stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
+<img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
 </div>
+<h4 align="center">
+    <i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
+</h4>
+</h1>
 
 <h2>
 I'm Devansh Shah🚀🤙
 </h2>
-<div styel="margin-bottom:25px">
+<div>
     <img src="https://media.giphy.com/media/3o7TKzyIPAiMR1pErK/giphy.gif" align="right" width="275" style="margin-left:25px" />
     <ul>
         <li style="font-size:18px">
