@@ -4,10 +4,13 @@
 <div> <img src="https://komarev.com/ghpvc/?username=twilight-warlock&label=Profile%20views&color=1E90FF&style=flat" alt="twilight-warlock" />
 <img src="https://badges.pufler.dev/commits/monthly/twilight-warlock" />
 </div>
-<h4 align="center">
-    <i>⚡️ Shift the ctrl to me, I will alt the world ⚡️</i>
-</h4>
 </h1>
+
+<p align="center" style="font-size:22px">
+<i>
+⚡️ Shift the ctrl to me, I will alt the world ⚡️
+</i>
+</p>
 
 <h2>
 I'm Devansh Shah🚀🤙
