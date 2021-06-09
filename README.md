@@ -6,7 +6,7 @@
 </div>
 </h1>
 
-<h2 align="center" style="font-size:22px">
+<h2 align="center" style="font-size:22px;margin-top:0;border:none">
 <i>
 ⚡️ Shift the ctrl to me, I will alt the world ⚡️
 </i>
