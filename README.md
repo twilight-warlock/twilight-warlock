@@ -2,7 +2,7 @@
 
 <div align="center"> 
     <h1>Hello stranger! I'm Devansh Shah 
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px"> 
     </h1> 
     <!-- <p align="center">
         <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;
